@@ -1,7 +1,5 @@
 package com.example.marvelcomicapp.model.comics
 
-import com.ozaltun.marvel.model.comics.Creators
-
 data class Comic(
     val characters: Characters,
     val creators: Creators,

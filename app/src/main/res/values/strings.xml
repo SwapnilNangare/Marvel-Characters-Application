@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MarvelComic App</string>
+
+    <string name="character_image_contentDesc">Character image</string>
+    <string name="character_unknown">There is no information</string>
+    <string name="no_results">No results , please check your internet connection</string>
+
+    <string name="characters_title_action_bar">Marvel Universe</string>
+    <string name="details_title_action_bar">Details and Comics</string>
+
+    <string name="madeBySezer">Made by Swapnil Nangare</string>
+    <string name="linkedin">Linkedin: Swapnil Nangare</string>
+    <string name="github">Github: SwapnilNangare</string>
+
+    <string name="exitApp">Exit App</string>
+    <string name="exitQuestiom">Do you want to exit the app ?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
 </resources>

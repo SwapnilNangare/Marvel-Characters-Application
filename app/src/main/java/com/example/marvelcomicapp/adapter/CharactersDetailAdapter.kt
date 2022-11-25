@@ -3,6 +3,9 @@ package com.example.marvelcomicapp.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
+import com.example.marvelcomicapp.databinding.ItemCharacterDetailBinding
+import com.example.marvelcomicapp.model.comics.Comic
 
 class CharactersDetailAdapter(private val characterList: List<Comic>): RecyclerView.Adapter<CharactersDetailAdapter.CharacterDetailViewHolder>() {
 

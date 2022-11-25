@@ -3,8 +3,9 @@ package com.example.marvelcomicapp.repository
 import androidx.paging.Pager
 import androidx.paging.PagingConfig
 import androidx.paging.PagingData
-import com.ozaltun.marvel.constant.Constant
-import com.ozaltun.marvel.api.MarvelService
+import com.example.marvelcomicapp.api.MarvelService
+import com.example.marvelcomicapp.constant.Constant
+import com.example.marvelcomicapp.model.character.Character
 import kotlinx.coroutines.flow.Flow
 
 class CharactersRepository(private val apiService: MarvelService) {

@@ -11,4 +11,3 @@ object Constant {
     const val COMICS_START_DATE = "2005-01-01"
     const val COMICS_ORDER_BY = "-onsaleDate"
 }
-}

@@ -1,8 +1,8 @@
 package com.example.marvelcomicapp.resource
 
-import com.ozaltun.marvel.constant.Constant
-import com.ozaltun.marvel.extensions.md5
-import com.ozaltun.marvel.BuildConfig
+import com.example.marvelcomicapp.BuildConfig
+import com.example.marvelcomicapp.constant.Constant
+import com.example.marvelcomicapp.extensions.md5
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

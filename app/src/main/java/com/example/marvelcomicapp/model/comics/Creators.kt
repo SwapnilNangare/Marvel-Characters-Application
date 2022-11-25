@@ -1,4 +1,4 @@
-package com.ozaltun.marvel.model.comics
+package com.example.marvelcomicapp.model.comics
 
 data class Creators(
     val available: Int,

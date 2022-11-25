@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/NeoSoft/AndroidStudioProjects/MarvelComicApp2/app/src/main/res/drawable/bg_button_details.xml" value="0.1135" />
+        <entry key="..\:/Users/NeoSoft/AndroidStudioProjects/MarvelComicApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1135" />
         <entry key="..\:/Users/NeoSoft/AndroidStudioProjects/MarvelComicApp2/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/NeoSoft/AndroidStudioProjects/MarvelComicApp2/app/src/main/res/layout/activity_splash_screen.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/NeoSoft/AndroidStudioProjects/MarvelComicApp2/app/src/main/res/layout/fragment_all_characters.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/NeoSoft/AndroidStudioProjects/MarvelComicApp2/app/src/main/res/layout/fragment_character_details.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/NeoSoft/AndroidStudioProjects/MarvelComicApp2/app/src/main/res/layout/item_character.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/NeoSoft/AndroidStudioProjects/MarvelComicApp2/app/src/main/res/layout/item_character_detail.xml" value="0.22083333333333333" />
       </map>
     </option>
   </component>

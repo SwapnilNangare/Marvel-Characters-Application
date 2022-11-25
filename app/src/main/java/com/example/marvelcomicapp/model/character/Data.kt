@@ -1,6 +1,5 @@
 package com.example.marvelcomicapp.model.character
 
-import java.lang.Character
 
 data class Data(
     var offset: Int,

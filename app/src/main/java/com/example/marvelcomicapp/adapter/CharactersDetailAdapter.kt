@@ -24,6 +24,7 @@ class CharactersDetailAdapter(private val characterList: List<Comic>): RecyclerV
 
             comicTxtView.text = characterDetail.title
         }
+        //this onbind
     }
 
     override fun getItemCount(): Int {
